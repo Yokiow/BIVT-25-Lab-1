@@ -127,7 +127,6 @@ namespace Lab1
 
             return answer;
         }
-
         public double Task7(double d, double f)
         {
             int answer = 0;
@@ -175,3 +174,4 @@ namespace Lab1
         }
     }
 }
+
