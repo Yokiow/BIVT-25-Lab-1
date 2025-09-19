@@ -1,4 +1,3 @@
-namespace Lab1
 {
     public class Blue
     {
@@ -174,4 +173,5 @@ namespace Lab1
         }
     }
 }
+
 
